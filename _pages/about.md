@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="#">Affiliations</a>. IIIT-Delhi, Sengupta lab, Ahuja lab etc.
+
 
 profile:
   align: right
