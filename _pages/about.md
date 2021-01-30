@@ -6,19 +6,26 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>A-313, R&D Block</p>
+    <p>IIIT Delhi</p>
+    <p>New Delhi, India-110020</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: False  # includes a list of news items
+selected_papers: True # includes a list of papers marked as "selected={true}"
+social: True  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a research scholar working with the adviors:
+Dr. Debarka Sengupta, Computer Science Department and Center for Computataional Biology Department, IIIT Delhi; Dr. Gaurav Ahuja, Center for Computataional Biology Department, IIIT Delhi; Dr. Abhik Ghosh, Interdisciplinary Statistical Research Unit, ISI, Kolkata, India.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Research Domains: Bioinformatics, Biostatistics, Machine Learning, Deep learning, Computer Vission.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My current research involves Statistical and machine learning-based approaches to precise characterization of cellular phenotypes.
+
+Experience: Before joining IIIT, Delhi, I was involved in a research project related to public key cryptography at SAG lab, DRDO. My work was in high performance computing using GMP and MPI under supervision of Dr. SK Pal. I have also worked in Cryptography, steganography and data compression fields. I have worked as an assistant professor in The Technological Institute of Textile & Sciences from Jan 2014 to June 2016. I did B.Tech and M.Tech from MD University, Rohtak.
+
+
+
+Link to my social media connections [github](http://krishan57gupta.github.io/my_space/){:target="\_blank"}, [Academicons](https://www.debarka.com/team/krishan/){:target="\_blank"}, [Twitter](https://twitter.com/krishan57gupta/){:target="\_blank"}, [LinkedIn](https://www.linkedin.com/in/krishan57gupta/){:target="\_blank"}, [Google Scholar](https://scholar.google.com/citations?user=sU_VfPUAAAAJ/){:target="\_blank"} and [Facebook](https://www.facebook.com/krishan57gupta/){:target="\_blank"}.

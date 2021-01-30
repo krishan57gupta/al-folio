@@ -1,18 +1,15 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Sengupta":
+  - firstname: ["Debarka", "D.", "D. S.", "Debarka Sengupta"]
+    url: https://www.iiitd.ac.in/debarka
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Ahuja":
+  - firstname: ["Gaurav", "G.", "G. A.", "Gaurav Ahuja"]
+    url: https://www.iiitd.ac.in/gauravahuja
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Ghosh":
+  - firstname: ["Abhik", "A.", "A. G.", "Abhik Ghosh"]
+    url: https://www.isical.ac.in/~abhik.ghosh
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Gupta":
+  - firstname: ["Krishan", "K.", "K. G.", "Krishan Gupta"]
+    url: https://krishan57gupta.github.io/my_web
